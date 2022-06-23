@@ -1,0 +1,7 @@
+.nav{
+    justify-content: flex-end;
+    margin-bottom: -30px !important;
+}
+.nav-link{
+    color: white !important;
+}
